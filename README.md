@@ -1,4 +1,7 @@
-# Sobre
+# 2048
+[![MIT License](https://img.shields.io/badge/license-MIT-green?style=flat-square)](https://raw.githubusercontent.com/DiegoVictor/2048/main/LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
 Versão do famoso jogo 2048 construída em VBA.
 > A aplicação utiliza macros, então tenha certeza de habilitar a execução das mesmas no seu Excel, Calc, etc.
 
